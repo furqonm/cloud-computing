@@ -32,7 +32,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 - [Alibaba Cloud - Cloud Computing: Free Sample Questions](https://forms.gle/krpAhG4dCGEKsDiY7) **(Unofficial)**
 
-    > Beberapa contoh soal untuk mengenali format pertanyaan nanti.
+    > Beberapa contoh soal yang mencakup beberapa service di Alibaba Cloud. Bentuk pertanyaannya tidak mirip dengan yang akan diujikan, tapi kita bisa pelajari untuk mengukur seberapa jauh kita mengetahui kegunaan service-service di Alibaba Cloud.
 
 ## Hands-on Labs
 ### Labex and Alibaba Console
